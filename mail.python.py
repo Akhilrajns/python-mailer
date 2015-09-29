@@ -7,7 +7,7 @@
 #host = 'smtp.gmail.com'
 #port = '587'
 #user = 'akhilraj.app@gmail.com'
-#passw = '9744894237'
+#passw = '**********'
 #i = 0
 
 #server = smtplib.SMTP()

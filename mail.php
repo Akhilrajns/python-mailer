@@ -26,7 +26,7 @@
 // $host = "smtp.gmail.com";
 // $port = "587";
 // $username = "akhilraj.app@gmail.com";
-// $password = "9744894237";
+// $password = "***********";
 //
 //
 //// SMTP params
